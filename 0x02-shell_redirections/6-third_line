@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -3l iacta
+wc -l3 iacta
